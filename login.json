@@ -1,0 +1,86 @@
+{
+    "userID": "000000",
+    "nomeCompleto": "Administrador",
+    "Acesso": "XXXX",
+    "Token": "D4E009569D8F1FE9A8D60F8B0161E538B98738A03D16A7666305F2BA135EC07E27",
+    "Foto": "http://",
+    "Menu": [
+        {
+            "Compras": [
+                {
+                    "Solicitacoes de Compras": [
+                        {
+                            "API": "MeliorApp/v1/LISTASC",
+                            "Acesso": "PRE",
+                            "BarraInferior": [
+                                {
+                                    "+ Solicitacao": "MeliorApp/v1/INCLUISC",
+                                    "Aprovar": "MeliorApp/v1/APROVASC",
+                                    "Rejeitar": "MeliorApp/v1/REJEITASC"
+                                }
+                            ]
+                        }
+                    ],
+                    "Pedidos de Compras": [
+                        {
+                            "API": "MeliorApp/v1/LISTAPC",
+                            "Acesso": "PRE",
+                            "BarraInferior": [
+                                {
+                                    "Aprovar": "MeliorApp/v1/APROVAPC",
+                                    "Rejeitar": "MeliorApp/v1/REJEITAPC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "Financeiro": [
+                {
+                    "Reembolso de Despesas": [
+                        {
+                            "API": "MeliorApp/v1/LISTARD",
+                            "Acesso": "PRE",
+                            "BarraInferior": [
+                                {
+                                    "+ Reembolso": "MeliorApp/v1/INCLUIRD",
+                                    "Aprovar": "MeliorApp/v1/APROVARD",
+                                    "Rejeitar": "MeliorApp/v1/REJEITARD"
+                                }
+                            ]
+                        }
+                    ],
+                    "Processos Juridicos": [
+                        {
+                            "API": "MeliorApp/v1/LISTAJUR",
+                            "Acesso": "PRE",
+                            "BarraInferior": [
+                                {
+                                    "+ Processo": "MeliorApp/v1/INCLUIJUR",
+                                    "Aprovar": "MeliorApp/v1/APROVAJUR",
+                                    "Rejeitar": "MeliorApp/v1/REJEITAJUR"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "Coleta de Dados": [
+                {
+                    "Separacao": [
+                        {
+                            "API": "MeliorApp/v1/ACDSEP",
+                            "Acesso": "PRE"
+                        }
+                    ],
+                    "Apontamento": [
+                        {
+                            "API": "MeliorApp/v1/ACDAPTO",
+                            "Acesso": "PRE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
