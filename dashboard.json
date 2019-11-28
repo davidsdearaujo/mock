@@ -1,0 +1,25 @@
+{
+  "Solicitações de Compras": [
+    {
+      "Pendentes": 10,
+      "Aprovadas": 5
+    }
+  ],
+  "Pedidos de Compras": [
+    {
+      "Pendentes de Análise": 3
+    }
+  ],
+  "Reembolso de Despesas": [
+    {
+      "Pendentes de Análise": 3,
+      "Aprovadas no mês": 5
+    }
+  ],
+  "Processos Jurídicos": [
+    {
+      "Pendentes de Análise": 8,
+      "Efetivados no mês": 3
+    }
+  ]
+}
