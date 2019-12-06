@@ -58,7 +58,7 @@
     "titulo":"Observacao",
     "tipo":"textfield",
     "tamanho":200,
-    "editavel":false,
+    "editavel":true,
     "obrigatorio":true,
     "padrao":"",
     "help":"Digite a observacao da compra. Lembre-se de ser bastante detalhista.",
