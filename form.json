@@ -76,7 +76,7 @@
     "titulo":"Quantidade",
     "tipo":"numeric",
     "tamanho":5,
-    "editavel":false,
+    "editavel":true,
     "obrigatorio":true,
     "padrao":"",
     "validacao":"positivo",
