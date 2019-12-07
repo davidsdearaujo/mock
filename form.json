@@ -80,7 +80,6 @@
     "obrigatorio":true,
     "padrao":"",
     "validacao":"positivo",
-    "help":"Digite a observacao da compra. Lembre-se de ser bastante detalhista.",
     "mascara":{
       "formato": "#####",
       "filtros": {
