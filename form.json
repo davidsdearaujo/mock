@@ -43,7 +43,7 @@
     {
     "id":"C1_PRODUTO",
     "titulo":"Produto",
-    "tipo":"dropdow",
+    "tipo":"dropdown",
     "tamanho":15,
     "editavel":true,
     "obrigatorio":true,
@@ -93,7 +93,7 @@
     {
     "id":"C1_CC",
     "titulo":"Centro de Custo",
-    "tipo":"dropdow",
+    "tipo":"dropdown",
     "tamanho":9,
     "editavel":true,
     "obrigatorio":true,
