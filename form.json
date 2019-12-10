@@ -74,6 +74,7 @@
     {
     "id":"C1_QTDE",
     "titulo":"Quantidade",
+    "help":"Digite a quantidade de itens comprados.",
     "tipo":"numeric",
     "tamanho":5,
     "editavel":true,
