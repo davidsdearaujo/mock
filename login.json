@@ -2,7 +2,7 @@
     "userID": "000000",
     "nomeCompleto": "Administrador",
     "Acesso": "XXXX",
-    "Token": "D4E009569D8F1FE9A8D60F8B0161E538B98738A03D16A7666305F2BA135EC07E27",
+    "Token": "D4E019569D8FBFE9A8D65F8B01619538B98748A03D1657656305F2B9135EC07927",
     "Foto": "http://",
     "Menu": [
         {
@@ -52,7 +52,7 @@
                     ],
                     "Processos Juridicos": [
                         {
-                            "API": "MeliorApp/v1/LISTAJUR",
+                            "API": "MeliorApp/v1/LISTAPJ",
                             "Acesso": "PRE",
                             "BarraInferior": [
                                 {
@@ -65,18 +65,19 @@
                     ]
                 }
             ],
-            "Coleta de Dados": [
+            "Atendimento": [
                 {
-                    "Separacao": [
+                    "Relatorio de Atividades": [
                         {
-                            "API": "MeliorApp/v1/ACDSEP",
-                            "Acesso": "PRE"
-                        }
-                    ],
-                    "Apontamento": [
-                        {
-                            "API": "MeliorApp/v1/ACDAPTO",
-                            "Acesso": "PRE"
+                            "API": "MeliorApp/v1/LISTARA",
+                            "Acesso": "PRE",
+                            "BarraInferior": [
+                                {
+                                    "+ Reembolso": "MeliorApp/v1/INCLUIRD",
+                                    "Efetivar": "MeliorApp/v1/APROVARA",
+                                    "Excluir": "MeliorApp/v1/REJEITARA"
+                                }
+                            ]
                         }
                     ]
                 }
