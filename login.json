@@ -4,20 +4,18 @@
     "Acesso": "XXXX",
     "Token": "D4E019569D8FBFE9A8D65F8B01619538B98748A03D1657656305F2B9135EC07927",
     "Foto": "http://",
-    "Menu": [
-        {
-            "Compras": {
-                "Solicitacoes de Compras": "MeliorApp/v1/LISTASC",
-                "Pedidos de Compras": "MeliorApp/v1/LISTAPC"
-            },
-            "Financeiro": {
-                "Reembolso de Despesas": "MeliorApp/v1/LISTARD",
-                "Processos Juridicos": "MeliorApp/v1/LISTAPJ"
-            },
-            "Atendimento": {
-                "Relatorio de Atividades": "MeliorApp/v1/LISTARA"
-            }
-            
+    "Menu": {
+        "Compras": {
+            "Solicitacoes de Compras": "MeliorApp/v1/LISTASC",
+            "Pedidos de Compras": "MeliorApp/v1/LISTAPC"
+        },
+        "Financeiro": {
+            "Reembolso de Despesas": "MeliorApp/v1/LISTARD",
+            "Processos Juridicos": "MeliorApp/v1/LISTAPJ"
+        },
+        "Atendimento": {
+            "Relatorio de Atividades": "MeliorApp/v1/LISTARA"
         }
-    ]
+        
+    }
 }
