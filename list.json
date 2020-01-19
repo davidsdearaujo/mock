@@ -1,13 +1,11 @@
 {
   "ID_DART": "BROWSE",
   "Title": "Listagem de Teste",
-  "BarraInferior": [
-    {
-      "+ Solicitacao": "MeliorApp/v1/INCLUISC",
-      "Aprovar": "MeliorApp/v1/APROVASC",
-      "Rejeitar": "MeliorApp/v1/REJEITASC"
-    }
-  ],
+  "BarraInferior": {
+    "+ Solicitacao": "MeliorApp/v1/INCLUISC",
+    "Aprovar": "MeliorApp/v1/APROVASC",
+    "Rejeitar": "MeliorApp/v1/REJEITASC"
+  },
   "LISTA": [
     {
       "Status": "Azul",
