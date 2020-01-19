@@ -1,33 +1,60 @@
 {
-"ID_DART":"BROWSE",
-"LISTA":[
-{"Status":"Azul",
-    "Titulo":"Solicitacao 000025  Item 001",
-  "DataHora":"25/11/2019 10:00",
- "SubTitulo":"PROD001 - MONITOR LG 19POL PADRAO",
-  "Linha01":"C.Custo: Administrativo  Projeto: Generico",
-  "Linha02":"NECESSIDADE PARA PROJETO DE MELHORIA DO SISTEMA",
-  "Linha03":"              ...Aguardando aprovação",
-  "Acao01":[{"Excluir":"/MeliorApp/v1/ExcluiITEM"}],
-  "Acao02":[{"Aprovar":"/MeliorApp/v1/AprovaITEM"}]
-},
-{"Status":"Azul",
-    "Titulo":"Solicitacao 000025  Item 002",
-  "DataHora":"25/11/2019 10:00",
-  "SubTitulo":"PROD010 - CONJUNTO DE MESA E CADEIRA",
-  "Linha01":"C.Custo: Administrativo  Projeto: Generico",
-  "Linha02":"NECESSIDADE PARA PROJETO DE MIGRACAO SISTEMICA",
-  "Linha03":"              ...Aguardando aprovação",
-  "Acao01":[{"Excluir":"/MeliorApp/v1/ExcluiITEM"}],
-  "Acao02":[{"Aprovar":"/MeliorApp/v1/AprovaITEM"}]
-},
-{"Status":"Verde",
-    "Titulo":"Solicitacao 000032  Item 001",
-  "DataHora":"26/11/2019 09:32",
-  "SubTitulo":"PROD022 - SUPORTE MONITOR PADRAO",
-  "Linha01":"C.Custo: Comercial    Projeto: CALL CENTER",
-  "Linha02":"ADEQUACAO A ABNT - PROCESSOS TRABALHISTAS",
-  "Linha03":"           * Aprovado por R.RABELO em 26/11/2019"
-}
-]
+  "ID_DART": "BROWSE",
+  "Title": "Listagem de Teste",
+  "BarraInferior": [
+    {
+      "+ Solicitacao": "MeliorApp/v1/INCLUISC",
+      "Aprovar": "MeliorApp/v1/APROVASC",
+      "Rejeitar": "MeliorApp/v1/REJEITASC"
+    }
+  ],
+  "LISTA": [
+    {
+      "Status": "Azul",
+      "Titulo": "Solicitacao 000025  Item 001",
+      "DataHora": "25/11/2019 10:00",
+      "SubTitulo": "PROD001 - MONITOR LG 19POL PADRAO",
+      "Linha01": "C.Custo: Administrativo  Projeto: Generico",
+      "Linha02": "NECESSIDADE PARA PROJETO DE MELHORIA DO SISTEMA",
+      "Linha03": "              ...Aguardando aprovação",
+      "Acao01": [
+        {
+          "Excluir": "/MeliorApp/v1/ExcluiITEM"
+        }
+      ],
+      "Acao02": [
+        {
+          "Aprovar": "/MeliorApp/v1/AprovaITEM"
+        }
+      ]
+    },
+    {
+      "Status": "Azul",
+      "Titulo": "Solicitacao 000025  Item 002",
+      "DataHora": "25/11/2019 10:00",
+      "SubTitulo": "PROD010 - CONJUNTO DE MESA E CADEIRA",
+      "Linha01": "C.Custo: Administrativo  Projeto: Generico",
+      "Linha02": "NECESSIDADE PARA PROJETO DE MIGRACAO SISTEMICA",
+      "Linha03": "              ...Aguardando aprovação",
+      "Acao01": [
+        {
+          "Excluir": "/MeliorApp/v1/ExcluiITEM"
+        }
+      ],
+      "Acao02": [
+        {
+          "Aprovar": "/MeliorApp/v1/AprovaITEM"
+        }
+      ]
+    },
+    {
+      "Status": "Verde",
+      "Titulo": "Solicitacao 000032  Item 001",
+      "DataHora": "26/11/2019 09:32",
+      "SubTitulo": "PROD022 - SUPORTE MONITOR PADRAO",
+      "Linha01": "C.Custo: Comercial    Projeto: CALL CENTER",
+      "Linha02": "ADEQUACAO A ABNT - PROCESSOS TRABALHISTAS",
+      "Linha03": "           * Aprovado por R.RABELO em 26/11/2019"
+    }
+  ]
 }
