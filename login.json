@@ -15,7 +15,9 @@
         },
         "Atendimento": {
             "Relatorio de Atividades": "MeliorApp/v1/LISTARA"
+        },
+        "Outros": {
+            "Configurações": "MeliorApp/v1/INCLUISC"
         }
-        
     }
 }
