@@ -15,6 +15,7 @@
       "Linha01": "C.Custo: Administrativo  Projeto: Generico",
       "Linha02": "NECESSIDADE PARA PROJETO DE MELHORIA DO SISTEMA",
       "Linha03": "              ...Aguardando aprovação",
+      "DetailsUrl": "MeliorApp/v1/DETAILSSC",
       "Acao01": [
         {
           "Excluir": "/MeliorApp/v1/ExcluiITEM"
@@ -34,6 +35,7 @@
       "Linha01": "C.Custo: Administrativo  Projeto: Generico",
       "Linha02": "NECESSIDADE PARA PROJETO DE MIGRACAO SISTEMICA",
       "Linha03": "              ...Aguardando aprovação",
+      "DetailsUrl": "MeliorApp/v1/DETAILSSC",
       "Acao01": [
         {
           "Excluir": "/MeliorApp/v1/ExcluiITEM"
@@ -52,7 +54,8 @@
       "SubTitulo": "PROD022 - SUPORTE MONITOR PADRAO",
       "Linha01": "C.Custo: Comercial    Projeto: CALL CENTER",
       "Linha02": "ADEQUACAO A ABNT - PROCESSOS TRABALHISTAS",
-      "Linha03": "           * Aprovado por R.RABELO em 26/11/2019"
+      "Linha03": "           * Aprovado por R.RABELO em 26/11/2019",
+      "DetailsUrl": "MeliorApp/v1/DETAILSSC"
     }
   ]
 }
