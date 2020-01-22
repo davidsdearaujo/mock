@@ -44,7 +44,16 @@
          "initialDate": "01/01/1800",
          "finalDate": "01/01/2020",
          "editavel": true,
-         "obrigatorio": true
+         "obrigatorio": true,
+         "value": "07/03/1996"
+      },
+      {
+         "id":"TIMEFIELD01",
+         "titulo": "Hora",
+         "tipo": "time",
+         "editavel": true,
+         "obrigatorio": true,
+         "value": "12:00"
       }
    ]
 }
