@@ -36,6 +36,16 @@
                "X":"[A-Z]"
             }
          }
+      },
+      {
+         "id":"DATEFIELD01",
+         "titulo": "Data de nascimento",
+         "tipo": "date",
+         "initialDate": "01/01/1800",
+         "finalDate": "01/01/2020",
+         "editavel": false,
+         "obrigatorio": true,
+         "value": "07/03/1996"
       }
    ]
 }
