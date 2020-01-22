@@ -45,7 +45,8 @@
          "finalDate": "01/01/2020",
          "editavel": true,
          "obrigatorio": true,
-         "value": "07/03/1996"
+         "value": "07/03/1996",
+         "help": "Digite a string a ser considerada no filtro."
       },
       {
          "id":"TIMEFIELD01",
@@ -53,7 +54,8 @@
          "tipo": "time",
          "editavel": true,
          "obrigatorio": true,
-         "value": "12:00"
+         "value": "12:00",
+         "help": "Digite a string a ser considerada no filtro."
       }
    ]
 }
