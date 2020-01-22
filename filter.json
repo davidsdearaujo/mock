@@ -1,0 +1,41 @@
+{
+   "id_dart":"FILTER",
+   "cabecalho":"Filtro de Parametros",
+   "botao":"Gravar SC",
+   "apibusca":"/MeliorApp/v1/ListaSX6",
+   "campos":[
+      {
+         "id":"MV_PAR01",
+         "titulo":"Campo a ser Filtrado",
+         "tipo":"dropdow",
+         "tamanho":15,
+         "editavel":true,
+         "obrigatorio":true,
+         "help":"Selecione o campoque deseja fazer o filtro do SX6.",
+         "lista":{
+            "X6_VAR":"Nome Variavel (MV)",
+            "X6_DESCRIC":"Descricao",
+            "X6_CONTEUD":"Conteudo",
+            "ALL":"Todos os Campos"
+         }
+      },
+      {
+         "id":"MV_PAR02",
+         "titulo":"Texto de Filtro",
+         "tipo":"textfield",
+         "tamanho":60,
+         "editavel":true,
+         "obrigatorio":true,
+         "padrao":"",
+         "help":"Digite a string a ser considerada no filtro.",
+         "mascara":{
+            "formato":"X",
+            "filtros":{
+               "#":"[0-9]",
+               "x":"[a-z]",
+               "X":"[A-Z]"
+            }
+         }
+      }
+   ]
+}
