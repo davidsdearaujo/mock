@@ -43,7 +43,7 @@
          "tipo": "date",
          "initialDate": "01/01/1800",
          "finalDate": "01/01/2020",
-         "editavel": false,
+         "editavel": true,
          "obrigatorio": true
       }
    ]
