@@ -47,6 +47,7 @@
     "tamanho":15,
     "editavel":true,
     "obrigatorio":true,
+    "trigger": true,
     "help":"Selecione o produto que sera considerado para a compra.",
     "lista": {
       "PROD0010":"MONITOR DE 19 POLEGADAS",
