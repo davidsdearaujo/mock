@@ -3,6 +3,7 @@
   "cabecalho":"Nova Solicitacao",
   "botao":"Gravar SC",
   "apigrava":"/MeliorApp/v1/GravaSC",
+  "apitrigger":"/MeliorApp/v1/TriggerSC",
   "campos":[
     {
     "id":"C1_NUM",
