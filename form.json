@@ -105,6 +105,14 @@
       "10020012":"Comercial",
       "10120010":"Financeiro",
       "10020004":"Operaciona"}
-    }
+    },
+    {
+    "id":"C1_SEARCH",
+    "titulo":"Buscar responsavel",
+    "tipo":"search",
+    "editavel":true,
+    "obrigatorio":true,
+    "help":"Selecione o responsavel que sera considerado para a compra.",
+    "apisearch": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/search_endpoint.json"
     ]
 }
