@@ -115,4 +115,5 @@
       "help":"Selecione o responsavel que sera considerado para a compra.",
       "apisearch": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/search_endpoint.json"
     }
+  ]
 }
