@@ -24,8 +24,8 @@
       },
       "Acao02": {
         "isIdDart": true,
-        "name": "Aprovar",
-        "url": "/MeliorApp/v1/AprovaITEM"
+        "name": "Editar",
+        "url": "/MeliorApp/v1/INCLUIITEM"
       }
     },
     {
@@ -45,8 +45,8 @@
       },
       "Acao02": {
         "isIdDart": true,
-        "name": "Aprovar",
-        "url": "/MeliorApp/v1/AprovaITEM"
+        "name": "Editar",
+        "url": "/MeliorApp/v1/INCLUIITEM"
       }
     },
     {
