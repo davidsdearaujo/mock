@@ -36,16 +36,16 @@
       "Linha02": "NECESSIDADE PARA PROJETO DE MIGRACAO SISTEMICA",
       "Linha03": "              ...Aguardando aprovação",
       "DetailsUrl": "MeliorApp/v1/DETAILSSC",
-      "Acao01": [
-        {
-          "Excluir": "/MeliorApp/v1/ExcluiITEM"
-        }
-      ],
-      "Acao02": [
-        {
-          "Aprovar": "/MeliorApp/v1/AprovaITEM"
-        }
-      ]
+      "Acao01": {
+        "isIdDart": true,
+        "name": "Excluir",
+        "url": "/MeliorApp/v1/ExcluiITEM"
+      },
+      "Acao02": {
+        "isIdDart": true,
+        "name": "Aprovar",
+        "url": "/MeliorApp/v1/AprovaITEM"
+      }
     },
     {
       "Status": "Verde",
