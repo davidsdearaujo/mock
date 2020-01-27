@@ -39,7 +39,8 @@
       "Acao01": {
         "isIdDart": true,
         "name": "Excluir",
-        "url": "/MeliorApp/v1/ExcluiITEM"
+        "url": "/MeliorApp/v1/ExcluiITEM",
+        "message": "Tem certeza que deseja excluir esse item?"
       },
       "Acao02": {
         "isIdDart": true,
