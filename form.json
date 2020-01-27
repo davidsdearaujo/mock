@@ -14,6 +14,7 @@
     "obrigatorio":true,
     "padrao":"000125",
     "help":"Numero da soicitacao de compras.",
+    "expanded": false,
     "mascara":{
       "formato": "######",
       "filtros": {
@@ -32,6 +33,7 @@
     "obrigatorio":true,
     "padrao":"001",
     "help":"Item da soicitacao de compras.",
+    "expanded": false,
     "mascara":{
       "formato": "###",
       "filtros": {
