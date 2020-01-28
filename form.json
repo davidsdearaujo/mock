@@ -49,7 +49,7 @@
     "tipo":"switch",
     "editavel":true,
     "obrigatorio":true,
-    "value":"false",
+    "value":"false"
     },
     {
     "id":"C1_PRODUTO",
