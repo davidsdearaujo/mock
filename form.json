@@ -131,6 +131,15 @@
       "editavel":true,
       "obrigatorio":true,
       "expanded":true
+    },
+    {
+      "id":"C1_BARCODE",
+      "titulo":"Escanear código de barras",
+      "tipo":"barcode",
+      "editavel":true,
+      "obrigatorio":true,
+      "expanded":true,
+      "value": "0000000"
     }
   ]
 }
