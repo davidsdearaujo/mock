@@ -123,6 +123,14 @@
       "editavel":true,
       "obrigatorio":true,
       "apisearch": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/search_endpoint.json"
+    },
+    {
+      "id":"C1_ATTACHMENT",
+      "titulo":"Selecionar anexo",
+      "tipo":"attachment",
+      "editavel":true,
+      "obrigatorio":true,
+      "expanded":true
     }
   ]
 }
