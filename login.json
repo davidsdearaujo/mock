@@ -6,18 +6,30 @@
     "Foto": "http://",
     "Menu": {
         "Compras": {
+          "iconindex": 1,
+          "items": {
             "Solicitacoes de Compras": "MeliorApp/v1/LISTASC",
             "Pedidos de Compras": "MeliorApp/v1/LISTAPC"
+          }
         },
         "Financeiro": {
+          "iconindex": 2,
+          "items": {
             "Reembolso de Despesas": "MeliorApp/v1/LISTARD",
             "Processos Juridicos": "MeliorApp/v1/LISTAPJ"
+          }
         },
         "Atendimento": {
+          "iconindex": 3,
+          "items": {
             "Relatorio de Atividades": "MeliorApp/v1/LISTARA"
+          }
         },
         "Outros": {
+          "iconindex": 4,
+          "items": {
             "Configurações": "MeliorApp/v1/INCLUISC"
+          }
         }
     }
 }
