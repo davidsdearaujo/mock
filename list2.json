@@ -1,0 +1,60 @@
+{
+  "ID_DART": "BROWSE2",
+  "Title": "Listagem de Teste",
+  "BarraInferior": {
+    "+ Solicitacao": "MeliorApp/v1/INCLUISC",
+    "Aprovar": "MeliorApp/v1/APROVASC",
+    "Rejeitar": "MeliorApp/v1/REJEITASC"
+  },
+  "LISTA": [
+    {
+      "Titulo": "Solicitacao 000025  Item 001",
+      "DataHora": "25/11/2019 10:00",
+      "SubTitulo": "PROD001 - MONITOR LG 19POL PADRAO",
+      "Linha01": "C.Custo: Administrativo  Projeto: Generico",
+      "Linha02": "NECESSIDADE PARA PROJETO DE MELHORIA DO SISTEMA",
+      "Linha03": "              ...Aguardando aprovação",
+      "DetailsUrl": "MeliorApp/v1/DETAILSSC",
+      "Acao01": {
+        "isIdDart": true,
+        "name": "Excluir",
+        "url": "/MeliorApp/v1/ExcluiITEM",
+        "message": "Tem certeza que deseja excluir esse item?"
+      },
+      "Acao02": {
+        "isIdDart": true,
+        "name": "Editar",
+        "url": "/MeliorApp/v1/INCLUIITEM"
+      }
+    },
+    {
+      "Titulo": "Solicitacao 000025  Item 002",
+      "DataHora": "25/11/2019 10:00",
+      "SubTitulo": "PROD010 - CONJUNTO DE MESA E CADEIRA",
+      "Linha01": "C.Custo: Administrativo  Projeto: Generico",
+      "Linha02": "NECESSIDADE PARA PROJETO DE MIGRACAO SISTEMICA",
+      "Linha03": "              ...Aguardando aprovação",
+      "DetailsUrl": "MeliorApp/v1/DETAILSSC",
+      "Acao01": {
+        "isIdDart": true,
+        "name": "Excluir",
+        "url": "/MeliorApp/v1/ExcluiITEM",
+        "message": "Tem certeza que deseja excluir esse item?"
+      },
+      "Acao02": {
+        "isIdDart": true,
+        "name": "Editar",
+        "url": "/MeliorApp/v1/INCLUIITEM"
+      }
+    },
+    {
+      "Titulo": "Solicitacao 000032  Item 001",
+      "DataHora": "26/11/2019 09:32",
+      "SubTitulo": "PROD022 - SUPORTE MONITOR PADRAO",
+      "Linha01": "C.Custo: Comercial    Projeto: CALL CENTER",
+      "Linha02": "ADEQUACAO A ABNT - PROCESSOS TRABALHISTAS",
+      "Linha03": "           * Aprovado por R.RABELO em 26/11/2019",
+      "DetailsUrl": "MeliorApp/v1/DETAILSSC"
+    }
+  ]
+}
