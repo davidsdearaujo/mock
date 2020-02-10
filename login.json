@@ -8,8 +8,8 @@
         "Compras": {
           "iconindex": 1,
           "items": {
-            "Solicitacoes de Compras": "MeliorApp/v1/LISTASC",
-            "Pedidos de Compras": "MeliorApp/v1/LISTAPC"
+            "Solicitacoes de Compras": "MeliorApp/v1/LISTA1",
+            "Pedidos de Compras": "MeliorApp/v1/LISTA2"
           }
         },
         "Financeiro": {
