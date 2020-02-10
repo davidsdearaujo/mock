@@ -39,13 +39,13 @@
             }
          ],
          "Acao01":{
-            "isIdDart":true,
+            "isIdDart":false,
             "name":"Excluir",
             "url":"/MeliorApp/v1/ExcluiITEM",
             "message":"Tem certeza que deseja excluir esse item?"
          },
          "Acao02":{
-            "isIdDart":true,
+            "isIdDart":false,
             "name":"Editar",
             "url":"/MeliorApp/v1/INCLUIITEM"
          }
