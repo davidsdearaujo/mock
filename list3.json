@@ -10,10 +10,8 @@
          "approved":true,
          "urltap":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
          "image":"https://i.pinimg.com/280x280_RS/f6/20/14/f6201446c5489cfbd5ce11921fa035a0.jpg",
-         "content":[
-            "20 DIAS DE FÉRIAS / 10 DIAS DE ABONO",
-            "DE 01/08/2017 A 20/08/2017"
-         ],
+         "content":"20 DIAS DE FÉRIAS / 10 DIAS DE ABONO",
+         "bottom":"DE 01/08/2017 A 20/08/2017",
          "actions":[
             {
                "isIdDart":false,
