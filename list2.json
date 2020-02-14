@@ -1,8 +1,8 @@
 {
    "ID_DART":"BROWSE2",
    "Title":"Listagem de Teste",
+   "urladd":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
    "BarraInferior":{
-      "+ Solicitacao":"MeliorApp/v1/INCLUISC",
       "Aprovar":"MeliorApp/v1/APROVASC",
       "Rejeitar":"MeliorApp/v1/REJEITASC"
    },
