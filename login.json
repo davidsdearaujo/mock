@@ -8,8 +8,9 @@
         "Compras": {
           "iconindex": 1,
           "items": {
-            "Solicitacoes de Compras": "MeliorApp/v1/LISTA1",
-            "Pedidos de Compras": "MeliorApp/v1/LISTA2"
+            "Browser 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list.json",
+            "Browser 2": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json",
+            "Browser 3": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
           }
         },
         "Financeiro": {
@@ -28,7 +29,7 @@
         "Outros": {
           "iconindex": 4,
           "items": {
-            "Configurações": "MeliorApp/v1/INCLUISC"
+            "Configurações": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
           }
         }
     }
