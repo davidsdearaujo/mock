@@ -8,7 +8,7 @@
         "Compras": {
           "iconindex": 1,
           "items": {
-            "Browser 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list.json",
+            "Browser 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json",
             "Browser 2": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json",
             "Browser 3": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
           }
