@@ -4,7 +4,8 @@
    "LISTA":[
       {
          "id":"ID001",
-         "date": "14/02/2020",
+         "day": "14",
+         "month": "02",
          "title":"ANA LUIZA DE SOUZA PRATES",
          "subtitle":"GERENTE COMERCIAL",
          "status":"Aprovado",
@@ -29,7 +30,6 @@
       },
       {
          "id":"ID002",
-         "date": "14/02/2020",
          "title":"ANA LUIZA DE SOUZA PRATES",
          "subtitle":"GERENTE COMERCIAL",
          "status":"Reprovado",
