@@ -1,23 +1,29 @@
 {
-    "userID": "000000",
-    "nomeCompleto": "Administrador",
-    "Acesso": "XXXX",
-    "Token": "D4E019569D8FBFE9A8D65F8B01619538B98748A03D1657656305F2B9135EC07927",
-    "Foto": "http://",
-    "Menu": {
-        "Compras": {
-          "iconindex": 1,
-          "items": {
-            "Browser 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json",
-            "Browser 2": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json",
-            "Browser 3": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
-          }
-        },
-        "Outros": {
-          "iconindex": 4,
-          "items": {
-            "Configurações": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
-          }
-        }
+  "userID": "000001",
+  "name": "Anderson Zanni ",
+  "Token": "1A60C456205F49999BE6D3D8F3D18E31F6970F91",
+  "endpoint": "191.13.134.55:8086",
+  "language": "pt_BR",
+  "primaryColor": "#FF8C00",
+  "secondaryColor": "#696969",
+  "theme": 1,
+  "logologin": "http://",
+  "logomenu": "http://",
+  "picture": "http://",
+  "Menu": {
+    "Compras": {
+      "iconindex": 1,
+      "items": {
+        "Browser 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json",
+        "Browser 2": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json",
+        "Browser 3": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
+      }
+    },
+    "Outros": {
+      "iconindex": 4,
+      "items": {
+        "Configurações": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
+      }
     }
+  }
 }
