@@ -66,6 +66,11 @@
       "PROD0300":"MESA PADRAO ESCRITORIO"}
     },
     {
+      "id":"C1_LABEL",
+      "tipo":"label",
+      "value":"Texto de teste"
+    },
+    {
     "id":"C1_OBS",
     "titulo":"Observacao",
     "tipo":"textfield",
