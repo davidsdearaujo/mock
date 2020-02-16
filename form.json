@@ -68,7 +68,10 @@
     {
       "id":"C1_LABEL",
       "tipo":"label",
-      "value":"Texto de teste"
+      "value":"Texto de teste",
+      "color":"#FF0303",
+      "size": 16,
+      "bold": false
     },
     {
     "id":"C1_OBS",
