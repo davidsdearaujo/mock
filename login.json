@@ -11,7 +11,7 @@
   "logomenu": "http://",
   "picture": "http://",
   "Menu": {
-    "Compras": {
+    "Browsers": {
       "iconindex": 1,
       "items": {
         "Browser 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json",
@@ -19,10 +19,17 @@
         "Browser 3": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
       }
     },
-    "Outros": {
+    "Forms": {
       "iconindex": 4,
       "items": {
-        "Configurações": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
+        "Form": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+        "Filter": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/filter.json"
+      }
+    },
+    "Webview": {
+      "iconindex": 3,
+      "items": {
+        "Webview 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/webview.json"
       }
     }
   }
