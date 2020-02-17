@@ -74,6 +74,13 @@
       "bold": false
     },
     {
+      "tipo":"divider",
+      "color":"#ABABAB",
+      "height": 1,
+      "topDistance": 5,
+      "bottomDistance":5,
+    },
+    {
     "id":"C1_OBS",
     "titulo":"Observacao",
     "tipo":"textfield",
