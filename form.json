@@ -77,8 +77,8 @@
       "tipo":"divider",
       "color":"#ABABAB",
       "height": 1,
-      "topDistance": 5,
-      "bottomDistance":5
+      "topDistance": 0,
+      "bottomDistance":10
     },
     {
     "id":"C1_OBS",
