@@ -17,7 +17,7 @@
       "Linha03": "              ...Aguardando aprovação",
       "urltap": "MeliorApp/v1/DETAILSSC",
       "Acao01": {
-        "isIdDart": true,
+        "isIdDart": false,
         "name": "Excluir",
         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
         "message": "Tem certeza que deseja excluir esse item?"
@@ -25,7 +25,7 @@
       "Acao02": {
         "isIdDart": true,
         "name": "Editar",
-        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json"
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
       }
     },
     {
@@ -38,7 +38,7 @@
       "Linha03": "              ...Aguardando aprovação",
       "urltap": "MeliorApp/v1/DETAILSSC",
       "Acao01": {
-        "isIdDart": true,
+        "isIdDart": false,
         "name": "Excluir",
         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/error_action.json",
         "message": "Tem certeza que deseja excluir esse item?"
@@ -46,7 +46,7 @@
       "Acao02": {
         "isIdDart": true,
         "name": "Editar",
-        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/error_action.json"
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.jsonn"
       }
     },
     {
