@@ -19,13 +19,13 @@
             {
                "isIdDart":false,
                "name":"Excluir",
-               "url":"/MeliorApp/v1/ExcluiITEM",
+               "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
                "message":"Tem certeza que deseja excluir esse item?"
             },
             {
                "isIdDart":false,
                "name":"Editar",
-               "url":"/MeliorApp/v1/INCLUIITEM"
+               "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json"
             }
          ]
       },
@@ -43,13 +43,13 @@
             {
                "isIdDart":true,
                "name":"Excluir",
-               "url":"/MeliorApp/v1/ExcluiITEM",
+               "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/error_action.json",
                "message":"Tem certeza que deseja excluir esse item?"
             },
             {
                "isIdDart":true,
                "name":"Editar",
-               "url":"/MeliorApp/v1/INCLUIITEM"
+               "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/error_action.json"
             }
          ]
       }
