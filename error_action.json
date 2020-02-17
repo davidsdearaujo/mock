@@ -1,0 +1,5 @@
+{
+  "x-message-title":"Não foi possível concluir a operação",
+  "x-message-content":"Você não tem privilégios para executar essa ação.",
+  "x-message-type":"error"
+}
