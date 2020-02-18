@@ -1,0 +1,173 @@
+{
+  "id_dart":"EDIT",
+  "cabecalho":"Nova Solicitacao",
+  "botao":"Gravar SC",
+  "apigrava":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_browser1_response.json",
+  "apitrigger":"/MeliorApp/v1/TriggerSC",
+  "campos":[
+    {
+      "id": "C1_IMG01",
+      "tipo": "image",
+      "image": "https://i.imgur.com/9bpPMV2.png"
+    },
+    {
+    "id":"C1_NUM",
+    "titulo":"Numero",
+    "tipo":"textfield",
+    "tamanho":6,
+    "editavel":false,
+    "obrigatorio":true,
+    "padrao":"000125",
+    "help":"Numero da soicitacao de compras.",
+    "expanded": false,
+    "mascara":{
+      "formato": "######",
+      "filtros": {
+         "#": "[0-9]",
+         "x": "[a-z]",
+         "X": "[A-Z]"
+      }
+     }  
+    },
+    {
+    "id":"C1_ITEM",
+    "titulo":"Item",
+    "tipo":"textfield",
+    "tamanho":3,
+    "editavel":false,
+    "obrigatorio":true,
+    "padrao":"001",
+    "help":"Item da soicitacao de compras.",
+    "expanded": false,
+    "mascara":{
+      "formato": "###",
+      "filtros": {
+         "#": "[0-9]",
+         "x": "[a-z]",
+         "X": "[A-Z]"
+      }
+     }  
+    },
+    {
+    "id":"C1_SWITCH",
+    "titulo":"Habilitar teste",
+    "tipo":"switch",
+    "editavel":true,
+    "obrigatorio":true,
+    "value":"false"
+    },
+    {
+    "id":"C1_PRODUTO",
+    "titulo":"Produto",
+    "tipo":"dropdown",
+    "tamanho":15,
+    "editavel":true,
+    "obrigatorio":true,
+    "trigger": true,
+    "help":"Selecione o produto que sera considerado para a compra.",
+    "lista": {
+      "PROD0010":"MONITOR DE 19 POLEGADAS",
+      "PROD0200":"CABO CARREGADOR PADRAO",
+      "PROD0300":"MESA PADRAO ESCRITORIO"}
+    },
+    {
+      "id": "C1_IMG02",
+      "tipo": "image",
+      "height": 100,
+      "width": 100,
+      "image": "https://i.imgur.com/d68kM6p.jpg"
+    },
+    {
+      "id":"C1_LABEL",
+      "tipo":"label",
+      "value":"Texto de teste",
+      "color":"#FF0303",
+      "size": 25,
+      "bold": false
+    },
+    {
+      "tipo":"divider",
+      "color":"#ABABAB",
+      "height": 1,
+      "topDistance": 0,
+      "bottomDistance":10
+    },
+    {
+    "id":"C1_OBS",
+    "titulo":"Observacao",
+    "tipo":"textfield",
+    "tamanho":200,
+    "editavel":true,
+    "obrigatorio":true,
+    "dynamicHeight": true,
+    "padrao":"",
+    "help":"Digite a observacao da compra. Lembre-se de ser bastante detalhista.",
+    "mascara":{
+      "formato": "X",
+      "filtros": {
+         "#": "[0-9]",
+         "x": "[a-z]",
+         "X": "[A-Z]"
+      }
+     }  
+    },
+    {
+    "id":"C1_QTDE",
+    "titulo":"Quantidade",
+    "help":"Digite a quantidade de itens comprados.",
+    "tipo":"numeric",
+    "tamanho":5,
+    "editavel":true,
+    "obrigatorio":true,
+    "padrao":"",
+    "validacao":"positivo",
+    "mascara":{
+      "formato": "#####",
+      "filtros": {
+         "#": "[0-9]",
+         "x": "[a-z]",
+         "X": "[A-Z]"
+      }
+     }  
+    },
+    {
+    "id":"C1_CC",
+    "titulo":"Centro de Custo",
+    "tipo":"dropdown",
+    "tamanho":9,
+    "editavel":true,
+    "obrigatorio":true,
+    "help":"Selecione o Centro de Custo que sera considerado para a compra.",
+    "lista": {
+      "10020001":"Administrativo",
+      "10020012":"Comercial",
+      "10120010":"Financeiro",
+      "10020004":"Operaciona"}
+    },
+    {
+      "id":"C1_SEARCH",
+      "titulo":"Buscar responsavel",
+      "tipo":"search",
+      "editavel":true,
+      "obrigatorio":true,
+      "apisearch": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/search_endpoint.json"
+    },
+    {
+      "id":"C1_ATTACHMENT",
+      "titulo":"Selecionar anexo",
+      "tipo":"attachment",
+      "editavel":true,
+      "obrigatorio":true,
+      "expanded":true
+    },
+    {
+      "id":"C1_BARCODE",
+      "titulo":"Escanear código de barras",
+      "tipo":"barcode",
+      "editavel":true,
+      "obrigatorio":true,
+      "expanded":true,
+      "value": "0000000"
+    }
+  ]
+}
