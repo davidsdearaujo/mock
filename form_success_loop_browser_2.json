@@ -3,5 +3,5 @@
   "x-message-content":"\nA operação foi realizada com sucesso!\n\nCom loop!",
   "x-message-type":"success",
   "x-message-close-url":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json",
-  "x-message-close-pop":true
+  "x-message-close-pop":false
 }
