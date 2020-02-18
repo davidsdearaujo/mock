@@ -2,6 +2,6 @@
   "x-message-title":"Tudo certo",
   "x-message-content":"\nA operação foi realizada com sucesso!\n\nCom loop!",
   "x-message-type":"success",
-  "x-message-close-url":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+  "x-message-close-url":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_browser2.json",
   "x-message-close-pop":false
 }
