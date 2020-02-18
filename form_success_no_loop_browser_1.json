@@ -1,6 +1,6 @@
 {
   "x-message-title":"Tudo certo",
-  "x-message-content":"A operação foi realizada com sucesso!",
+  "x-message-content":"A operação foi realizada com sucesso!\nSem loop!",
   "x-message-type":"success",
   "x-message-close-url":"https://github.com/davidsdearaujo/mock/blob/master/list1.json",
   "x-message-close-pop":true
