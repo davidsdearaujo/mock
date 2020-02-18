@@ -1,7 +1,7 @@
 {
    "ID_DART":"BROWSE2",
    "Title":"Listagem de Teste",
-   "urladd":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/addform_loop_browser_2.json",
+   "urladd":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_browser2.json",
    "BarraInferior":{
       "Aprovar":"MeliorApp/v1/APROVASC",
       "Rejeitar":"MeliorApp/v1/REJEITASC"
