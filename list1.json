@@ -3,8 +3,8 @@
   "Title": "Listagem de Teste",
   "urladd":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_browser1.json",
   "BarraInferior": {
-    "Aprovar": "MeliorApp/v1/APROVASC",
-    "Rejeitar": "MeliorApp/v1/REJEITASC"
+    "Aprovar": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
+    "Rejeitar": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/error_action.json"
   },
   "LISTA": [
     {
