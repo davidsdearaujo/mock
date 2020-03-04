@@ -6,6 +6,8 @@
   "language": "pt_BR",
   "primaryColor": "#EC6500",
   "secondaryColor": "#8C8B8B",
+  "primaryDarkColor":"#1EC62C",
+  "secondaryDarkColor":"#1E2AC6",  
   "theme": 1,
   "logologin": "http://",
   "logomenu": "http://",
