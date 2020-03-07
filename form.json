@@ -2,8 +2,8 @@
   "id_dart":"EDIT",
   "cabecalho":"Nova Solicitacao",
   "botao":"Gravar SC",
-  "apigrava":"/MeliorApp/v1/GravaSC",
-  "apitrigger":"/MeliorApp/v1/TriggerSC",
+  "apigrava":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_response.json",
+  "apitrigger":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/trigger.json",
   "campos":[
     {
       "id": "C1_IMG01",
