@@ -1,6 +1,8 @@
 {
   "urllogo":"https://github.com/davidsdearaujo/mock/blob/master/meliora.png?raw=true",
-  "texto":"Meliora Consultoria em Informatica Ltda.\n\nAv. Dr. Gastão Vidigal, 1132\nVila Leopoldina – São Paulo – SP\nCEP: 05314-000\n\n(11) 3132-0717",
+  "texto":"Meliora Consultoria em Informatica Ltda.",
   "email":"contato@meliora.com.br",
-  "site":"www.meliora.com.br"
+  "site":"www.meliora.com.br",
+  "endereco":"Av. Dr. Gastão Vidigal, 1132\nVila Leopoldina – São Paulo – SP\nCEP: 05314-000",
+  "telefone":"(11) 3132-0717"
 }
