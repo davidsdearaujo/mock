@@ -9,6 +9,7 @@
   "primaryDarkColor":"#1EC62C",
   "secondaryDarkColor":"#1E2AC6",  
   "theme": 1,
+  "apidashboard": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/dashboard.json",
   "logologin": "http://",
   "logomenu": "http://",
   "picture": "http://",
