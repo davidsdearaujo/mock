@@ -61,6 +61,18 @@
         "Chamados em espera": {
           "color":"#FFD92F",
           "value": 11
+        },
+        "Chamados fechados mês passado": {
+          "color":"#E78AC3",
+          "value": 11
+        },
+        "Chamados fechados com nota alta": {
+          "color":"#A6D854",
+          "value": 11
+        },
+        "Chamados fechados com nota baixa": {
+          "color":"#E5C494",
+          "value": 11
         }
       }
     }
