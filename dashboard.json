@@ -5,7 +5,9 @@
     {
       "id": "C1_IMG01",
       "tipo": "image",
-      "image": "https://i.imgur.com/9bpPMV2.png"
+      "image": "https://i.imgur.com/9bpPMV2.png",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+      "refreshUrlBeforeUrlTap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/dashboard2.json"
     },
     {
     "id":"C1_NUM",
