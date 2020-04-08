@@ -1,0 +1,83 @@
+{
+  "id_dart":"DASHBOARD",
+  "apitrigger":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/trigger.json",
+  "campos":[
+    {
+      "id": "C1_IMG01",
+      "tipo": "image",
+      "image": "https://i.imgur.com/9bpPMV2.png",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+      "refreshUrlBeforeUrlTap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/dashboard.json"
+    },
+    {
+    "id":"C1_NUM",
+    "titulo":"Numero",
+    "tipo":"textfield",
+    "tamanho":6,
+    "editavel":false,
+    "obrigatorio":true,
+    "padrao":"000125",
+    "help":"Numero da soicitacao de compras.",
+    "expanded": false,
+    "mascara":{
+      "formato": "######",
+      "filtros": {
+         "#": "[0-9]",
+         "x": "[a-z]",
+         "X": "[A-Z]"
+      }
+     }  
+    },
+    {
+    "id":"C1_ITEM",
+    "titulo":"Item",
+    "tipo":"textfield",
+    "tamanho":3,
+    "editavel":false,
+    "obrigatorio":true,
+    "padrao":"001",
+    "help":"Item da soicitacao de compras.",
+    "expanded": false,
+    "mascara":{
+      "formato": "###",
+      "filtros": {
+         "#": "[0-9]",
+         "x": "[a-z]",
+         "X": "[A-Z]"
+      }
+     }  
+    },
+    {
+      "id": "G1_CHAMADOS",
+      "titulo": "Chamados",
+      "tipo": "piechart",
+      "dados": {
+        "Chamados ativos": {
+          "color":"#66C2A5",
+          "value": 25
+        },
+        "Chamados fechados": {
+          "color":"#8DA0CB",
+          "value": 73
+        },
+        "Chamados em espera": {
+          "color":"#FFD92F",
+          "value": 11
+        },
+        "Chamados fechados mês passado": {
+          "color":"#E78AC3",
+          "value": 11,
+          "showValue": false
+        },
+        "Chamados fechados com nota alta": {
+          "color":"#A6D854",
+          "value": 11
+        },
+        "Chamados fechados com nota baixa": {
+          "color":"#E5C494",
+          "value": 11
+        }
+      }
+    }
+  ]
+}
