@@ -64,7 +64,8 @@
         },
         "Chamados fechados mês passado": {
           "color":"#E78AC3",
-          "value": 11
+          "value": 11,
+          "showValue": false
         },
         "Chamados fechados com nota alta": {
           "color":"#A6D854",
