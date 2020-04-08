@@ -46,38 +46,6 @@
          "X": "[A-Z]"
       }
      }  
-    },
-    {
-      "id": "G1_CHAMADOS",
-      "titulo": "Chamados",
-      "tipo": "piechart",
-      "dados": {
-        "Chamados ativos": {
-          "color":"#66C2A5",
-          "value": 25
-        },
-        "Chamados fechados": {
-          "color":"#8DA0CB",
-          "value": 73
-        },
-        "Chamados em espera": {
-          "color":"#FFD92F",
-          "value": 11
-        },
-        "Chamados fechados mês passado": {
-          "color":"#E78AC3",
-          "value": 11,
-          "showValue": false
-        },
-        "Chamados fechados com nota alta": {
-          "color":"#A6D854",
-          "value": 11
-        },
-        "Chamados fechados com nota baixa": {
-          "color":"#E5C494",
-          "value": 11
-        }
-      }
     }
   ]
 }
