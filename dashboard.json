@@ -24,6 +24,93 @@
      ]
     },
     {
+      "id": "I1_ITEM1",
+      "type": "browser2_item",
+      "title":"ANA LUIZA DE SOUZA PRATES",
+      "subtitle":"GERENTE COMERCIAL",
+      "image":"https://i.pinimg.com/280x280_RS/f6/20/14/f6201446c5489cfbd5ce11921fa035a0.jpg",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+      "content":[
+         {
+            "title":"PERÍODO CONCESSIVO",
+            "value":"10/06/2017 | 09/06/2018",
+            "expanded":true
+         },
+         {
+            "title":"SAÍDA DE FÉRIAS",
+            "value":"01/08/2017",
+            "expanded":false
+         },
+         {
+            "title":"RETORNO DE FÉRIAS",
+            "value":"20/08/2017",
+            "expanded":false
+         },
+         {
+            "title":"DIAS DE FÉRIAS",
+            "value":"20",
+            "expanded":false
+         },
+         {
+            "title":"DIAS DE ABONO",
+            "value":"10",
+            "expanded":false
+         }
+      ],
+      "Acao01":{
+         "isIdDart":false,
+         "name":"Excluir",
+         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
+         "message":"Tem certeza que deseja excluir esse item?"
+      },
+      "Acao02":{
+         "isIdDart":false,
+         "name":"Editar",
+         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json"
+      }
+    },
+    {
+      "id": "I1_ITEM2",
+      "type": "browser2_item",
+      "title":"ANA LUIZA DE SOUZA PRATES",
+      "subtitle":"GERENTE COMERCIAL",
+      "image":"https://i.pinimg.com/280x280_RS/f6/20/14/f6201446c5489cfbd5ce11921fa035a0.jpg",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+      "content":[
+         {
+            "title":"PERÍODO CONCESSIVO",
+            "value":"10/06/2017 | 09/06/2018",
+            "expanded":true
+         },
+         {
+            "title":"SAÍDA DE FÉRIAS",
+            "value":"01/08/2017",
+            "expanded":false
+         },
+         {
+            "title":"RETORNO DE FÉRIAS",
+            "value":"20/08/2017",
+            "expanded":false
+         },
+         {
+            "title":"DIAS DE FÉRIAS",
+            "value":"20",
+            "expanded":false
+         },
+         {
+            "title":"DIAS DE ABONO",
+            "value":"10",
+            "expanded":false
+         }
+      ],
+      "Acao01":{
+         "isIdDart":false,
+         "name":"Excluir",
+         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
+         "message":"Tem certeza que deseja excluir esse item?"
+      }
+    },
+    {
       "id": "C1_IMG01",
       "tipo": "image",
       "image": "https://i.imgur.com/9bpPMV2.png",
