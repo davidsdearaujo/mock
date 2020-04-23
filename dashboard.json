@@ -3,6 +3,17 @@
   "apitrigger":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/trigger.json",
   "campos":[
     {
+     "id": "LST_TEST",
+     "tipo": "horizontal_list",
+     "items": [
+       {
+         "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
+         "title": "Saldos e Extratos",
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
+       }
+     ]
+    },
+    {
       "id": "C1_IMG01",
       "tipo": "image",
       "image": "https://i.imgur.com/9bpPMV2.png",
