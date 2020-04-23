@@ -10,6 +10,11 @@
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
          "title": "Saldos e Extratos",
          "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
+       },
+       {
+         "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
+         "title": "Saldos e Extratos",
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        }
      ]
     },
