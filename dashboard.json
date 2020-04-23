@@ -20,51 +20,6 @@
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Pagamentos",
          "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
-       },
-       {
-         "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
-         "title": "Saldos e\nExtratos",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
-       },
-       {
-         "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
-         "title": "Transferências",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
-       },
-       {
-         "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
-         "title": "Pagamentos",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
-       },
-       {
-         "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
-         "title": "Saldos e\nExtratos",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
-       },
-       {
-         "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
-         "title": "Transferências",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
-       },
-       {
-         "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
-         "title": "Pagamentos",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
-       },
-       {
-         "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
-         "title": "Saldos e\nExtratos",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
-       },
-       {
-         "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
-         "title": "Transferências",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
-       },
-       {
-         "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
-         "title": "Pagamentos",
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
        }
      ]
     },
