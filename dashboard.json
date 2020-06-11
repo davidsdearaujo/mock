@@ -108,6 +108,26 @@
       "id": "I1_ITEM1",
       "tipo": "browser1_item",
       "Status": "Azul",
+      "Titulo": "Solicitacao 000021  Item 001",
+      "DataHora": "25/11/2019 10:00",
+      "SubTitulo": "PROD001 - MONITOR LG 19POL PADRAO",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+      "Acao01": {
+        "isIdDart": false,
+        "name": "Excluir",
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
+        "message": "Tem certeza que deseja excluir esse item?"
+      },
+      "Acao02": {
+        "isIdDart": true,
+        "name": "Editar",
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
+      }
+    },
+    {
+      "id": "I1_ITEM1",
+      "tipo": "browser1_item",
+      "Status": "Azul",
       "Titulo": "Solicitacao 000025  Item 001",
       "DataHora": "25/11/2019 10:00",
       "SubTitulo": "PROD001 - MONITOR LG 19POL PADRAO",
