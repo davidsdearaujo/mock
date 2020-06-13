@@ -23,9 +23,9 @@
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
-         "title": "Browser 3",
+         "title": "Action",
          "idIdDart": true,
-         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_browser1_response.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_response.json"
        }
      ]
     },
