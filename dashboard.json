@@ -8,18 +8,24 @@
      "items": [
        {
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
-         "title": "Saldos e\nExtratos",
+         "title": "Browser 1",
          "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        },
        {
          "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
-         "title": "Transferências",
+         "title": "Browser 2",
          "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
-         "title": "Pagamentos",
+         "title": "Browser 3",
          "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
+       },
+       {
+         "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
+         "title": "Browser 3",
+         "idIdDart": true,
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_browser1_response.json"
        }
      ]
     },
