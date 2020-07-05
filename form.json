@@ -167,6 +167,7 @@
       "editavel":true,
       "obrigatorio":true,
       "expanded":true,
+      "trigger": true,
       "value": "0000000"
     }
   ]
