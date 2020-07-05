@@ -24,7 +24,7 @@
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Action",
-         "idIdDart": false,
+         "isIdDart": false,
          "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_response.json"
        }
      ]
