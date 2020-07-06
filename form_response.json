@@ -2,5 +2,6 @@
   "x-message-title":"Tudo certo",	
   "x-message-content":"\nA operação foi realizada com sucesso!\n\nSem loop!",	
   "x-message-type":"success",	
-  "x-message-close-pop":true
+  "x-message-close-pop":true,
+  "x-message-timeout":3000
 }
