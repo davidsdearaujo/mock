@@ -15,7 +15,6 @@
     "titulo":"Numero",
     "tipo":"textfield",
     "tamanho":6,
-    "isFocused": true,
     "editavel":false,
     "obrigatorio":true,
     "padrao":"000125",
@@ -101,6 +100,7 @@
     "editavel":true,
     "obrigatorio":true,
     "dynamicHeight": true,
+    "isFocused": true,
     "padrao":"",
     "help":"Digite a observacao da compra. Lembre-se de ser bastante detalhista.",
     "mascara":{
