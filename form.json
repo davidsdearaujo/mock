@@ -15,6 +15,7 @@
     "titulo":"Numero",
     "tipo":"textfield",
     "tamanho":6,
+    "isFocused": true,
     "editavel":false,
     "obrigatorio":true,
     "padrao":"000125",
