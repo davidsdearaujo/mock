@@ -1,6 +1,6 @@
 {	
   "x-message-title":"Atenção",	
   "x-message-content":"\nTem certeza que deseja prosseguir?!",
-  "x-message-close-url-no":"http://localhost/mock/form_question_no_response.json",	
-  "x-message-close-url-yes":"http://localhost/mock/form_question_yes_response.json"
+  "x-message-close-url-no":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_question_no_response.json",	
+  "x-message-close-url-yes":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_question_yes_response.json"
 }
