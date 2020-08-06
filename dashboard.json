@@ -1,6 +1,6 @@
 {
   "id_dart":"DASHBOARD",
-  "apitrigger":"http://localhost/mock/trigger.json",
+  "apitrigger":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/trigger.json",
   "campos":[
     {
      "id": "LST_TEST",
@@ -9,23 +9,23 @@
        {
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
          "title": "Browser 1",
-         "onTapUrl": "http://localhost/mock/list1.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        },
        {
          "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
          "title": "Browser 2",
-         "onTapUrl": "http://localhost/mock/list2.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Browser 3",
-         "onTapUrl": "http://localhost/mock/list3.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Action",
          "isIdDart": false,
-         "onTapUrl": "http://localhost/mock/form_response.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_response.json"
        }
      ]
     },
@@ -37,82 +37,82 @@
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Action",
          "isIdDart": false,
-         "onTapUrl": "http://localhost/mock/form_response.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_response.json"
        },
        {
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
          "title": "Saldos e\nExtratos",
-         "onTapUrl": "http://localhost/mock/list1.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        },
        {
          "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
          "title": "Transferências",
-         "onTapUrl": "http://localhost/mock/list2.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Pagamentos",
-         "onTapUrl": "http://localhost/mock/list3.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
        },
        {
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
          "title": "Saldos e\nExtratos",
-         "onTapUrl": "http://localhost/mock/list1.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        },
        {
          "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
          "title": "Transferências",
-         "onTapUrl": "http://localhost/mock/list2.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Pagamentos",
-         "onTapUrl": "http://localhost/mock/list3.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
        },
        {
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
          "title": "Saldos e\nExtratos",
-         "onTapUrl": "http://localhost/mock/list1.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        },
        {
          "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
          "title": "Transferências",
-         "onTapUrl": "http://localhost/mock/list2.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Pagamentos",
-         "onTapUrl": "http://localhost/mock/list3.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
        },
        {
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
          "title": "Saldos e\nExtratos",
-         "onTapUrl": "http://localhost/mock/list1.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        },
        {
          "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
          "title": "Transferências",
-         "onTapUrl": "http://localhost/mock/list2.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Pagamentos",
-         "onTapUrl": "http://localhost/mock/list3.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
        },
        {
          "image": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-512.png",
          "title": "Saldos e\nExtratos",
-         "onTapUrl": "http://localhost/mock/list1.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json"
        },
        {
          "image": "https://cdn.iconscout.com/icon/free/png-256/random-15-1151404.png",
          "title": "Transferências",
-         "onTapUrl": "http://localhost/mock/list2.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list2.json"
        },
        {
          "image": "https://cdn3.iconfinder.com/data/icons/business-927/64/Scan_barcode_scanner_code-128.png",
          "title": "Pagamentos",
-         "onTapUrl": "http://localhost/mock/list3.json"
+         "onTapUrl": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/list3.json"
        }
      ]
     },
@@ -123,17 +123,17 @@
       "Titulo": "Solicitacao 000021  Item 001",
       "DataHora": "25/11/2019 10:00",
       "SubTitulo": "PROD001 - MONITOR LG 19POL PADRAO",
-      "urltap": "http://localhost/mock/form.json",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
       "Acao01": {
         "isIdDart": false,
         "name": "Excluir",
-        "url": "http://localhost/mock/success_action.json",
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
         "message": "Tem certeza que deseja excluir esse item?"
       },
       "Acao02": {
         "isIdDart": true,
         "name": "Editar",
-        "url": "http://localhost/mock/form.json"
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
       }
     },
     {
@@ -146,17 +146,17 @@
       "Linha01": "C.Custo: Administrativo  Projeto: Generico",
       "Linha02": "NECESSIDADE PARA PROJETO DE MELHORIA DO SISTEMA",
       "Linha03": "              ...Aguardando aprovação",
-      "urltap": "http://localhost/mock/form.json",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
       "Acao01": {
         "isIdDart": false,
         "name": "Excluir",
-        "url": "http://localhost/mock/success_action.json",
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
         "message": "Tem certeza que deseja excluir esse item?"
       },
       "Acao02": {
         "isIdDart": true,
         "name": "Editar",
-        "url": "http://localhost/mock/form.json"
+        "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json"
       }
     },
     {
@@ -165,7 +165,7 @@
       "title":"ANA LUIZA DE SOUZA PRATES",
       "subtitle":"GERENTE COMERCIAL",
       "image":"https://i.pinimg.com/280x280_RS/f6/20/14/f6201446c5489cfbd5ce11921fa035a0.jpg",
-      "urltap": "http://localhost/mock/form.json",
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
       "content":[
          {
             "title":"PERÍODO CONCESSIVO",
@@ -196,13 +196,13 @@
       "Acao01":{
          "isIdDart":false,
          "name":"Excluir",
-         "url": "http://localhost/mock/success_action.json",
+         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
          "message":"Tem certeza que deseja excluir esse item?"
       },
       "Acao02":{
          "isIdDart":false,
          "name":"Editar",
-         "url": "http://localhost/mock/form_question_response.json"
+         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form_question_response.json"
       }
     },
     {
@@ -242,7 +242,7 @@
       "Acao01":{
          "isIdDart":false,
          "name":"Excluir",
-         "url": "http://localhost/mock/success_action.json",
+         "url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/success_action.json",
          "message":"Tem certeza que deseja excluir esse item?"
       }
     },
@@ -250,8 +250,8 @@
       "id": "C1_IMG01",
       "tipo": "image",
       "image": "https://i.imgur.com/9bpPMV2.png",
-      "urltap": "http://localhost/mock/form.json",
-      "refreshUrlBeforeUrlTap": "http://localhost/mock/dashboard2.json"
+      "urltap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/form.json",
+      "refreshUrlBeforeUrlTap": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/dashboard2.json"
     },
     {
     "id":"C1_NUM",
