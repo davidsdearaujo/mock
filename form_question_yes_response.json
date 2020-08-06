@@ -1,0 +1,8 @@
+{	
+  "x-message-title":"Tudo certo 'YES'",	
+  "x-message-content":"\nA operação 'YES' realizada com sucesso!\n\nSem loop!",	
+  "x-message-type":"success",	
+  "x-message-close-url":"http://localhost/mock/list1.json",	
+  "x-message-close-pop":true,
+  "x-message-timeout":3000
+}
