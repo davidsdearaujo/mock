@@ -33,7 +33,8 @@
     "Webview": {
       "iconindex": 3,
       "items": {
-        "Webview 1": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/webview.json"
+        "Webview Html": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/webview.json",
+        "Webview Url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/webview2.json"
       }
     }
   }
