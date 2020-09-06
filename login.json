@@ -11,9 +11,9 @@
   "loginBackgroundImageUrl":"https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&w=1000&q=80",
   "theme": 1,
   "apidashboard": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/dashboard.json",
-  "logologin": "http://",
-  "logomenu": "http://",
-  "picture": "http://",
+  "logologin": "https://i.imgur.com/JjR8Ntjl.png",
+  "logomenu": "https://i.imgur.com/JjR8Ntjs.png",
+  "picture": "https://i.imgur.com/lTy4hiN.jpg",
   "Menu": {
     "Browsers": {
       "iconindex": 1,
