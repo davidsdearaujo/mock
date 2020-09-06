@@ -2,6 +2,5 @@
   "x-message-title":"Tudo certo 'NO'",	
   "x-message-content":"\nA operação 'NO' foi realizada com sucesso!",	
   "x-message-type":"success",	
-  "x-message-close-url":"https://raw.githubusercontent.com/davidsdearaujo/mock/master/list1.json",	
   "x-message-timeout":3000
 }
