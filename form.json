@@ -196,7 +196,7 @@
       "editavel":true,
       "obrigatorio":true,
       "expanded":true,
-      "message": "Assine abaixo"
+      "subtitulo": "Assine abaixo"
     },
     {
       "id":"C1_BARCODE",
