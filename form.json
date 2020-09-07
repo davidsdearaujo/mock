@@ -184,7 +184,7 @@
     {
       "id":"C1_IMAGE_ATTACHMENT",
       "titulo":"Selecionar imagem",
-      "tipo":"attachment",
+      "tipo":"attachment_image",
       "editavel":true,
       "obrigatorio":true,
       "expanded":true
