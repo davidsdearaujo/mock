@@ -182,6 +182,22 @@
       "expanded":true
     },
     {
+      "id":"C1_IMAGE_ATTACHMENT",
+      "titulo":"Selecionar imagem",
+      "tipo":"attachment",
+      "editavel":true,
+      "obrigatorio":true,
+      "expanded":true
+    },
+    {
+      "id":"C1_SIGNATURE",
+      "titulo":"Assinatura",
+      "tipo":"signature",
+      "editavel":true,
+      "obrigatorio":true,
+      "expanded":true
+    },
+    {
       "id":"C1_BARCODE",
       "titulo":"Escanear código de barras",
       "tipo":"barcode",
