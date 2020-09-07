@@ -195,7 +195,8 @@
       "tipo":"signature",
       "editavel":true,
       "obrigatorio":true,
-      "expanded":true
+      "expanded":true,
+      "message": "Desenhe abaixo sua assinatura"
     },
     {
       "id":"C1_BARCODE",
