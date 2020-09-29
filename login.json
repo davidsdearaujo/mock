@@ -36,6 +36,12 @@
         "Webview Html": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/webview.json",
         "Webview Url": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/webview2.json"
       }
+    },
+    "Launch": {
+      "iconindex": 3,
+      "items": {
+        "PDF": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/launch_pdf.json"
+      }
     }
   }
 }
