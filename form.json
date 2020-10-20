@@ -213,6 +213,12 @@
       "tipo":"webview",
       "aspectRatio": 1,
       "url": "https://www.highcharts.com/demo/line-labels"
+    },
+    {
+      "id":"C2_WEBVIEW",
+      "tipo":"webview",
+      "aspectRatio": 1,
+      "url": "https://www.youtube.com/"
     }
   ]
 }
