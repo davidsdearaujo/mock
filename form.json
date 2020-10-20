@@ -207,6 +207,12 @@
       "expanded":true,
       "trigger": true,
       "value": "0000000"
+    },
+    {
+      "id":"C1_WEBVIEW",
+      "tipo":"webview",
+      "aspectRatio": 1,
+      "url": "https://www.highcharts.com/demo/line-labels"
     }
   ]
 }
