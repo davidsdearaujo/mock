@@ -30,6 +30,14 @@
      ]
     },
     {
+      "id":"C1_SEARCH",
+      "titulo":"Search responsible",
+      "tipo":"multisearch",
+      "editavel":true,
+      "obrigatorio":true,
+      "apisearch": "/MeliorApp/v1/SearchSC"
+    },
+    {
      "id": "GRD_TEST",
      "tipo": "grid",
      "items": [
