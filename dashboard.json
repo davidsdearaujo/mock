@@ -30,12 +30,12 @@
      ]
     },
     {
-      "id":"C1_SEARCH",
-      "titulo":"Search responsible",
+      "id":"C1_MULTI_SEARCH",
+      "titulo":"Selecionar Funcionário",
       "tipo":"multisearch",
       "editavel":true,
       "obrigatorio":true,
-      "apisearch": "/MeliorApp/v1/SearchSC"
+      "apisearch": "https://raw.githubusercontent.com/davidsdearaujo/mock/master/search_endpoint.json"
     },
     {
      "id": "GRD_TEST",
